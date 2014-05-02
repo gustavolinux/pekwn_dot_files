@@ -1,0 +1,1 @@
+$TERM="xterm -fn fixed +sb -ls -bg black -fg SpringGreen3 -fa 'Confortaa Bold' -fs 11"
